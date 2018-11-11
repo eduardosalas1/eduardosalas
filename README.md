@@ -1,7 +1,7 @@
 # eduardosalas
 <html>
 <head>
-<title>?Eduardo Miguel Salas Palacios!</title>
+Eduardo Miguel Salas Palacios
 </head>
 <h1 style="background-color:#fffcfc;">Eduardo Miguel Salas Palacios</h1>
 <h1><font color="black" face="arial">CODIGO:201820145</font></h1>
