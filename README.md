@@ -5,8 +5,8 @@
 </head>
 <h1 style="background-color:#fffcfc;">Eduardo Miguel Salas Palacios</h1>
 <h1><font color="black" face="arial">CODIGO:201820145</font></h1>
-<body style="background-image:url('the_smiths.jpg')">
-<img src="utec.jpg"width="100" height="100">
+<body style="background-image:url('https://estaticos1.larazon.es/binrepository/814x425/29c0/755d425/none/10810/UMOP/image_content_8193731_20180521195627.jpg')">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Utec-logo.jpg"width="100" height="100">
 
 <h1><font color="white" face="arial">¿Quien soy?</font></h1>
 <p style="color:white;">Hola, mi nombre es Eduardo Salas Palacios tengo 18 a?os, nací el 10 de Agosto del 2000 en Lima.</p>
